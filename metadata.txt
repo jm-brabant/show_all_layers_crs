@@ -1,5 +1,5 @@
 [general]
-name=ShowAllLayersCRS
+name=Show_All_Layers_CRS
 qgisMinimumVersion=3.0
 description=Open a pop up window with the list of all the layers with their CRS, name files, features count 
 about=In a large project with a lot of layers,
