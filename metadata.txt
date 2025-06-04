@@ -12,4 +12,3 @@ changelog=None
 tags=CRS,layer
 homepage=https://github.com/jm-brabant/show_all_layers_crs
 icon=icon.png
-category=
