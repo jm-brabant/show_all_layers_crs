@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/showalllayerscrs" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
