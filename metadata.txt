@@ -9,4 +9,6 @@ author=Jean Marie BRABANT
 changelog=None
 tags=CRS,layer
 homepage=https://github.com/jm-brabant/show_all_layers_crs
+repository=https://github.com/jm-brabant/show_all_layers_crs
+tracker=https://github.com/jm-brabant/show_all_layers_crs/issues
 icon=icon.png
