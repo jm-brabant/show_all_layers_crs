@@ -1,15 +1,12 @@
 [general]
 name=Show_All_Layers_CRS
 qgisMinimumVersion=3.0
-description=Open a pop up window with the list of all the layers with their CRS, name files, features count 
-about=In a large project with a lot of layers,
-it helps to identify the layers with a wrong CRS which slow all the process.
-The contents of the pop-up window can be copied/pasted as a text.
-version=version 1.0
+description=Open a pop up window with the list of all the layers with their CRS, name files, features count
+about=In a large project with a lot of layers, it helps to identify the layers with a wrong CRS which slow all the process. The contents of the pop-up window can be copied/pasted as a text.
+version=1.0
 email=jm.brabant@oceavia.nc
 author=Jean Marie BRABANT
 changelog=None
 tags=CRS,layer
 homepage=https://github.com/jm-brabant/show_all_layers_crs
 icon=icon.png
-category=Plugins
