@@ -46,7 +46,7 @@ class ShowAllLayersCRS(QObject):
                 elif file_extension == '.csv':
                     file_type = "CSV"
                 else:
-                    file_type = "Autre"
+                    file_type = "Other"
                 
                 if isinstance(layer, QgsVectorLayer):
                     feature_count = layer.featureCount()
@@ -58,7 +58,7 @@ class ShowAllLayersCRS(QObject):
                     elif "Polygon" in geom_type:
                         geom_type_str = "Surface"
                     else:
-                        geom_type_str = "Autre"
+                        geom_type_str = "Other"
                     
                     spatial_index = "X" if layer.hasSpatialIndex() else ""
                 else:
